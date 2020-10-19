@@ -1,4 +1,4 @@
-# juuust-vue-icon
+# tuxling-vue-icon
 
 ## Project setup
 ```
