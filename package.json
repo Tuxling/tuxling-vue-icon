@@ -1,6 +1,6 @@
 {
   "name": "tuxling-vue-icon",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Tuxling Vue Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
   "files": [
